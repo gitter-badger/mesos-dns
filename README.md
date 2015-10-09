@@ -1,4 +1,6 @@
 # Mesos-DNS [![Circle CI](https://circleci.com/gh/mesosphere/mesos-dns.svg?style=svg)](https://circleci.com/gh/mesosphere/mesos-dns) [![Coverage Status](https://coveralls.io/repos/mesosphere/mesos-dns/badge.svg?branch=master&service=github)](https://coveralls.io/github/mesosphere/mesos-dns?branch=master) [![GoDoc](https://godoc.org/github.com/mesosphere/mesos-dns?status.svg)](https://godoc.org/github.com/mesosphere/mesos-dns)
+
+[![Join the chat at https://gitter.im/mesosphere/mesos-dns](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mesosphere/mesos-dns?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Mesos-DNS enables [DNS](http://en.wikipedia.org/wiki/Domain_Name_System) based service discovery in [Apache Mesos](http://mesos.apache.org/) clusters.
 
 ![Architecture
